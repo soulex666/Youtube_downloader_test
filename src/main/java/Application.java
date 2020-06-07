@@ -26,8 +26,10 @@ public class Application {
         String tempLine = (reader.nextLine().split(".+v=")[1]).split("&.+")[0];
 
 
+
         reader.close();
         System.out.println(tempLine);
+        System.out.println("Test test");
 
 
 
