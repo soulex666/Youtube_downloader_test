@@ -29,7 +29,7 @@ public class Application {
 
         reader.close();
         System.out.println(tempLine);
-        System.out.println("Test test");
+
 
 
 
